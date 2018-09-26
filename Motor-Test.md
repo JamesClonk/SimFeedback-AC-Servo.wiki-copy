@@ -1,7 +1,7 @@
 ## Manual
 
 This is the best manual (chinise english) I have found:
-https://www.google.de/url?sa=t&sourc...PjhnIO8x-_w_5M
+https://www.machsupport.com/forum/index.php?action=dlattach;topic=33543.0;attach=44811
 
 Do the installation, wiring as  described in the manual.
 
