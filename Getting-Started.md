@@ -34,7 +34,7 @@ Start printing! 3D-Printing all necessary parts will take ~2 weeks using one pri
 
 Start to build the [electronics](./Electronics)
 
-Test the motors by connecting them to the Servo Driver (TODO link to “Test Motor with Servo Driver only”)
+[Test the motors](./Motor-Test) by connecting them to the Servo Driver.
 
 Install [SimFeedback](./SimFeedback)
 
