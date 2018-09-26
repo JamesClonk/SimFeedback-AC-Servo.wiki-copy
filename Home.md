@@ -6,6 +6,14 @@ SimFeedback is a PC software, that will receive telemetry data from Racing games
 
 In this Version, motion commands will be send to a mirco controller (Arduino based) that will control closed loop AC Servos to drive our DIY Linear Actuators (SFX-100).
 
+Forums:
+
+https://forum.virtualracing.org/showthread.php/109282-DIY-3KW-Motion-Sim-Rig-Coming-Soon
+
+https://www.racedepartment.com/threads/the-simfeedback-ac-diy-motion-simulator-thread.159524/
+
+http://members.iracing.com/jforum/posts/list/3616928.page
+
 ## What is so special 
 
 We do use our own made DIY Actuators - SFX-100!
