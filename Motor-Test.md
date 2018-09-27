@@ -1,6 +1,6 @@
 ## Manual
 
-This is the best manual (chinise english) I have found:
+This is the best manual (chinese english) I have found:
 https://www.machsupport.com/forum/index.php?action=dlattach;topic=33543.0;attach=44811
 
 Do the installation, wiring as  described in the manual.
@@ -26,3 +26,5 @@ Change to the functions level and use
 `Fn002 JOG Trial operation`
 
 This function allows you to spin the motor.
+
+[![Motor Jog Test](https://img.youtube.com/vi/I2Cf0Wq7NRE/0.jpg)](https://www.youtube.com/watch?v=I2Cf0Wq7NRE)
