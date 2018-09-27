@@ -21,10 +21,6 @@ PLEASE TAKE CARE AND DOUBLE CHECK
 
 Next you can perform a simple test.
 
-Set this parameter to enable the motor:
-
-`Pn003 Servo enabled 1`
-
 Change to the functions level and use
 
 `Fn002 JOG Trial operation`
