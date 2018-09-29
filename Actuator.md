@@ -113,10 +113,12 @@ do not remove the ball nut from the ball screw at any point!
 
 ### 6) attach servo motor
 
+- remove the key from the motor shaft using a M3 screw
 - push the coupling onto the ball screw shaft
 - position the coupling roughly to the fixed bearing mount top surface
 - tighten the ball screw side of the coupling
 
+![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/18a_shaft_key.jpg)
 ![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/17_coupling.jpg)
 ![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/18_coupling.jpg)
 
