@@ -38,7 +38,7 @@ German only, use subtitles.
 
 ## Video Tutorials
 
-[Video Tutorials](../Video-Tutorials)
+[Video Tutorials](./Video-Tutorials)
 
 ## [Let's get started](./Getting-Started)
 
