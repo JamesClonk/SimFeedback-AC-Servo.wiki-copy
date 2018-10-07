@@ -73,7 +73,7 @@ _**Rumble(all)**_ Data like RPM will be available on all 4 actuators as vibratio
 _**Example Effect and description of Values**_ 
 
 ![Heave](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/HeaveEffect.png)
- 
+ * Adding a dot -> Double Click into the graph
 * **Linear** - if checked its a lot rougher :)
 * **Name** - Name of the Effect (Heave)
 * **Telemetry Key** - Choose the Key which will be used to create the Effect  (VertAccel)
