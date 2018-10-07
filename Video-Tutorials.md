@@ -2,7 +2,7 @@ Here are some SimFeedback video tutorials.
 
 German only, sorry. (Use Subtitles)
 
-## nstallation
+## Installation
 
 [![SimFeedback Tutorial 01](https://img.youtube.com/vi/C3OFxPr_RTA/0.jpg)](https://www.youtube.com/watch?v=C3OFxPr_RTA)
 
