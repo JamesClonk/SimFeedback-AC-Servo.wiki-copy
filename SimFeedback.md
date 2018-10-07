@@ -9,7 +9,7 @@ Allow the file to be saved._
 
 ## Video Tutorials
 
-[Video Tutorials](../Video-Tutorials)
+[Video Tutorials](./Video-Tutorials)
 
 ## Installation
 
