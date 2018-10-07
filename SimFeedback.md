@@ -7,6 +7,10 @@ Just head over to the [Release](../releases) section and download the newest Rel
 _You will be warned by your virus scanner or Windows, because you have downloaded a ZIP file from the internet.
 Allow the file to be saved._
 
+## Video Tutorials
+
+[Video Tutorials](../Video-Tutorials)
+
 ## Installation
 
 SimFeedback comes as a Zip file. Just extract it to a folder on your local hard drive.
