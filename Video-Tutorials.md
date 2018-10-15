@@ -13,3 +13,8 @@ German only, sorry. (Use Subtitles)
 ## Basic functions
 
 [![SimFeedback Tutorial 03](https://img.youtube.com/vi/g0zS0dfJyBw/0.jpg)](https://www.youtube.com/watch?v=g0zS0dfJyBw)
+
+## Expert Mode 01
+[![SimFeedback Tutorial 04](https://img.youtube.com/vi/n45ajTDo5mE/0.jpg)](https://www.youtube.com/watch?v=n45ajTDo5mE)
+
+
