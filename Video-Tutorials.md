@@ -17,4 +17,5 @@ German only, sorry. (Use Subtitles)
 ## Expert Mode 01
 [![SimFeedback Tutorial 04](https://img.youtube.com/vi/n45ajTDo5mE/0.jpg)](https://www.youtube.com/watch?v=n45ajTDo5mE)
 
-
+## Expert Mode 02
+[![SimFeedback Tutorial 05](https://img.youtube.com/vi/APo2Qqvsk1M/0.jpg)](https://www.youtube.com/watch?v=APo2Qqvsk1M)
