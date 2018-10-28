@@ -51,6 +51,8 @@ You can find it in `SimFeedback/ext/rf2/x86` for 32bit and `SimFeedback/ext/rf2/
 Copy the `Steam\steamapps\common\rFactor 2\Bin32\Plugins` or RF2SimFeedbackPlugin.dll to `Steam\steamapps\common\rFactor 2\Bin64\Plugins`.
 
 Plugin will be enabled by default.
+![RFactor 2 Plugins](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/rfactor2_plugin.png)
+
 
 Source code is available [here](https://github.com/SimFeedback/SimFeedback-AC-Servo/tree/master/Src/RF2).
 
