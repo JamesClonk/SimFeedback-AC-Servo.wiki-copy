@@ -1,9 +1,13 @@
 Here are some SimFeedback video tutorials.
 
-German only, sorry. (Use Subtitles)
+Most of it is German only, sorry. (Use Subtitles)
 
 ## Installation
 
+### English
+[![SimFeedback Tutorial 01](https://img.youtube.com/vi/Orm0GzH-JPs/0.jpg)](https://www.youtube.com/watch?v=Orm0GzH-JPs)
+
+### Deutsch
 [![SimFeedback Tutorial 01](https://img.youtube.com/vi/C3OFxPr_RTA/0.jpg)](https://www.youtube.com/watch?v=C3OFxPr_RTA)
 
 ## Flashing the arduino firmware
